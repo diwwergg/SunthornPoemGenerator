@@ -4,11 +4,6 @@
 
 This project is a part of the final project of Deep Learning course at  [<b>Panyapiwat Institute of Management</b>](https://www.pim.ac.th). The project is to generate a poem in the style of Sunthorn Phu, a famous Thai poet, using a deep learning model. The model is trained on a dataset of Sunthorn Phu's poems. The dataset is obtained from [vajirayana.org/](https://vajirayana.org/). The model is trained using a recurrent neural network with LSTM cells. The model is trained to predict the next character given a sequence of characters. The model is trained on Computer :
 
-        Computer: Aspire-A715-42G 
-        OS: Kubuntu 22.04.2 LTS x86_64 
-        Host: Aspire A715-42G V1.08 
-        Kernel: 5.19.0-42-generic 
-        Resolution: 1920x1080, 1920x1080 
         CPU: AMD Ryzen 5 5500U with Radeon Graphics (12) @ 2.100GHz 
         GPU: NVIDIA GeForce GTX 1650 Mobile / Max-Q 
         GPU: AMD ATI 05:00.0 Lucienne 
@@ -21,7 +16,7 @@ This project is a part of the final project of Deep Learning course at  [<b>Pany
 
 - Conda create environment pytorchphu
 Run the following command to create the Conda environment from the environment.yml file:
-``` command
+```
 conda env create -f environment.yml
 ```
 
