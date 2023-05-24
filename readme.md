@@ -80,7 +80,7 @@ conda activate pytorchphu
     └── RunGenerator.py # for run quick start generator and save output.txt
 
 
-## Member
+## Member Group 4
 - <h5>นายณัชพล สิทธิอาษา 6352300090 </h5>
 - <h5>นางสาวจรรยพรพรหม ธีระนันท์ 6352300138 </h5>
 - <h5>นายธวัชชัย บัวจันทร์ 6352300197 </h5>
