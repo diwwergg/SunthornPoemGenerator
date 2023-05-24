@@ -19,7 +19,7 @@ This project is a part of the final project of Deep Learning course at  [<b>Pany
 
 ## Setup Computer
 
-- Conda create environment pytorch
+- Conda create environment pytorchphu
 Run the following command to create the Conda environment from the environment.yml file:
 ``` command
 conda env create -f environment.yml
@@ -30,8 +30,6 @@ conda env create -f environment.yml
 ```
 conda activate pytorchphu
 ```
-
-Replace "myenv" with the actual name of your environment.
 
 ## Quick Start
 - run code in command
