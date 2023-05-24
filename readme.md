@@ -74,6 +74,37 @@ conda activate pytorchphu
         , train model, and save model
     └── RunGenerator.py # for run quick start generator and save output.txt
 
+## Step to run code
+- ##### NormalizeDataset.ipynb
+    - Run code in NormalizeDataset.ipynb
+    - Input Nirat.txt, KhunChang.txt Cobuut.txt, Lugsanawong.txt Phaapaimanee.txt, Singtaipop.txt
+    - Add all data to AllData.txt
+    - Normalize AllData.txt to TextAfterNormalize.txt
+    - Output file TextAfterNormalize.txt
+    
+- ##### SunthornPytorch.ipynb
+    - Run code in SunthornPytorch.ipynb
+    - Load TextAfterNormalize.txt
+    - Create char_dict.pkl, int_dict.pkl, input_data.pkl
+    - Create X, y and DataLoader
+    - Create model and optimizer and loss function
+    - Train model and save model
+    - Output file model.pth, model_info.pth, model_run.pth, input_data.pkl, char_dict.pkl, int_dict.pkl
+    - Test model for generate text
+    - Set Function for generate text
+    - Test model for generate text
+- ##### RunGenerator.ipynb
+    - Run code in RunGenerator.ipynb
+    - Load model_run.pth, model_info.pth, input_data.pkl, char_dict.pkl, int_dict.pkl
+    - Set Function for generate text
+    - Test model for generate text
+- ##### RunGenerator .py
+    - Run code in RunGenerator .py
+    - Load model_run.pth, model_info.pth, input_data.pkl, char_dict.pkl, int_dict.pkl
+    - Set Function for generate text
+    - Test model for generate text
+    - Output file output.txt
+
 
 ## Member Group 4
 - <h5>นายณัชพล สิทธิอาษา 6352300090 </h5>
