@@ -38,9 +38,10 @@ Replace "myenv" with the actual name of your environment.
 ```
     python RunGenerator.py
 ```
-- run on google colab
-- -        [<b>RunGenerator.ipynb</b>](https://colab.research.google.com/drive/1-4CJmxJFg9ortnnj_b83GxIMHK_BbH9g?usp=sharing).
-- -        [<b>SunthornPytorch.ipynb</b>](https://colab.research.google.com/drive/1wJaYyY9gg8wozVv0ElfH3_mVwMjnnOtd?usp=sharing).
+- run on google colab RunGenerator
+        [<b>RunGenerator.ipynb</b>](https://colab.research.google.com/drive/1-4CJmxJFg9ortnnj_b83GxIMHK_BbH9g?usp=sharing).
+- run on google colab SunthornPytorch
+        [<b>SunthornPytorch.ipynb</b>](https://colab.research.google.com/drive/1wJaYyY9gg8wozVv0ElfH3_mVwMjnnOtd?usp=sharing).
 
 ## Files
     ├── Dataset
